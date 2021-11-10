@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rockscissorpaper/static/css/main.a30aa560.chunk.css",
+    "main.js": "/rockscissorpaper/static/js/main.94233367.chunk.js",
+    "main.js.map": "/rockscissorpaper/static/js/main.94233367.chunk.js.map",
+    "runtime-main.js": "/rockscissorpaper/static/js/runtime-main.7a3e477a.js",
+    "runtime-main.js.map": "/rockscissorpaper/static/js/runtime-main.7a3e477a.js.map",
+    "static/js/2.5b322890.chunk.js": "/rockscissorpaper/static/js/2.5b322890.chunk.js",
+    "static/js/2.5b322890.chunk.js.map": "/rockscissorpaper/static/js/2.5b322890.chunk.js.map",
+    "index.html": "/rockscissorpaper/index.html",
+    "static/css/main.a30aa560.chunk.css.map": "/rockscissorpaper/static/css/main.a30aa560.chunk.css.map",
+    "static/js/2.5b322890.chunk.js.LICENSE.txt": "/rockscissorpaper/static/js/2.5b322890.chunk.js.LICENSE.txt",
+    "static/media/ic-reset.67a7f74e.svg": "/rockscissorpaper/static/media/ic-reset.67a7f74e.svg",
+    "static/media/paper.54096e09.svg": "/rockscissorpaper/static/media/paper.54096e09.svg",
+    "static/media/HandButton.css": "/rockscissorpaper/static/media/purple.a5c05033.svg",
+    "static/media/rock.4111d788.svg": "/rockscissorpaper/static/media/rock.4111d788.svg",
+    "static/media/scissor.41638054.svg": "/rockscissorpaper/static/media/scissor.41638054.svg",
+    "static/media/App.css": "/rockscissorpaper/static/media/yellow.add40681.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a3e477a.js",
+    "static/js/2.5b322890.chunk.js",
+    "static/css/main.a30aa560.chunk.css",
+    "static/js/main.94233367.chunk.js"
+  ]
+}
